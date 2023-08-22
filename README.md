@@ -1,5 +1,5 @@
 # tsp-with-ga
-in the following note book we will sove teraveling sales-man problem(TSP) with Genetic Algorithm(GA).
+in the following note book we will solve teraveling sales-man problem(TSP) with Genetic Algorithm(GA).
 
 ## Notes
 You can download test cases from net. 
