@@ -4,5 +4,6 @@ in the following note book we will solve teraveling sales-man problem(TSP) with 
 ## Notes
 You can download test cases from net. 
 
-Feel free to mail me your feedback :))
+Feel free to mail me your feedback 
+
 samanarzaghi@gmail.com / arzaghi.sam@gmail.com
